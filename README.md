@@ -57,6 +57,7 @@ Once the application is running:
 
 Here’s a quick demo of the project functionality for creating an invoice:
 
-![Create Invoice](c:\Users\joshc\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\TempState\Recordings\20250412-1117-32.3589646.mp4)
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/793f1382-e4c0-4a94-b5ba-74e23b583746)
+
 
 **Demo deployed with Azure:** [InvoiceApp](https://invoiceapp20250410155226.azurewebsites.net/Invoices)
