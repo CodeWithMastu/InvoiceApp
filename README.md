@@ -53,11 +53,3 @@ Once the application is running:
 - Add new clients and invoices.
 - View a detailed list of all created invoices.
 
-### Demo
-
-Here’s a quick demo of the project functionality for creating an invoice:
-
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/793f1382-e4c0-4a94-b5ba-74e23b583746)
-
-
-**Demo deployed with Azure:** [InvoiceApp](https://invoiceapp20250410155226.azurewebsites.net/Invoices)
